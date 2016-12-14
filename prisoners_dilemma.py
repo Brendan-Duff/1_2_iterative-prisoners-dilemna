@@ -1,5 +1,5 @@
 from __future__ import print_function
-
+#Team 2 Brendna Duff number 5
 ##### 
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
@@ -380,3 +380,4 @@ def post_to_file(string, filename='tournament.txt', directory=''):
 if __name__ == '__main__':
     scores, moves, reports = main_play(modules[0:4])   
     section0, section1, section2, section3 = reports
+    
