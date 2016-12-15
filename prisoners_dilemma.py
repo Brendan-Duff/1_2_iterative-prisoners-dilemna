@@ -1,6 +1,6 @@
 from __future__ import print_function
-#Team 2 Brendna Duff number 5
 ##### 
+# Team 2 Brendan Duff number 5
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
 # (c)2014 Project Lead The Way, Inc.
